@@ -118,7 +118,7 @@ Counting Speed of the Counter Depends on Clock Freq. of Timer
 Timer is Connected to APBx Timer Bus
 16MHZ/8MHZ is the Clock for APB Bus
 Agenda is to genrate a delay for 1MS Tick for the Counter (Incrementing Counter by 1 will take 1ms)
-Counter counting till 1000 @1MS Tick will genrate a Delay of 1Sec
+Counter counting till 1000 @1MS Tick will generate a Delay of 1Sec
 Running this Delay for 1000 Times(Counting till 1000) for Getting 1Sec
 
 PreScalar=16000
